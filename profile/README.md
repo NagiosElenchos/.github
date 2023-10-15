@@ -4,4 +4,4 @@ The full documentation of Élenchos is available at [elenchos.readthedocs.io](ht
 
 If you have written a Nagios plugin using Élenchos, please, feel free to ask for a repository for your plugin in this organisation. 
 
-<small>Credits: [Freepik](https://www.freepik.com/icon/checked_2212809) and [bab.la](https://en.bab.la/dictionary/greek-english/%CE%AD%CE%BB%CE%B5%CE%B3%CF%87%CE%BF%CF%82)</small>.
+<sub><sub>Credits: [Freepik](https://www.freepik.com/icon/checked_2212809) and [bab.la](https://en.bab.la/dictionary/greek-english/%CE%AD%CE%BB%CE%B5%CE%B3%CF%87%CE%BF%CF%82).</sub></sub>
